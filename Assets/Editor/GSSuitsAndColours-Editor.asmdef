@@ -1,0 +1,10 @@
+{
+  "name": "GSSuitsAndColours-Editor",
+  "references": [
+    "GSSuitsAndColours"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
